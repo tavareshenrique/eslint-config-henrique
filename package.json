@@ -1,12 +1,15 @@
 {
-  "name": "@rocketseat/eslint-config",
-  "version": "1.2.0",
+  "name": "eslint-config-henrique",
+  "version": "1.0.0",
   "private": false,
-  "description": "ESLint configuration used by Rocketseat.",
-  "main": "index.js",
+  "author": {
+    "name": "Henrique Tavares",
+    "email": "ihenrits@gmail.com"
+  },
+  "description": "ESLint configuration used by Henrique Tavares.",
   "license": "MIT",
   "repository": {
-    "url": "rocketseat/eslint-config-rocketseat"
+    "url": "tavareshenrique/eslint-config-henrique"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
