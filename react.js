@@ -21,8 +21,7 @@ module.exports = {
   plugins: [
     'react',
     'jsx-a11y',
-    '@typescript-eslint',
-    "react-refresh"
+    '@typescript-eslint'
   ],
   rules: {
     'prettier/prettier': ["error", {
@@ -47,8 +46,7 @@ module.exports = {
     'jsx-a11y/aria-proptypes': 'warn',
     'jsx-a11y/aria-unsupported-elements': 'warn',
     'jsx-a11y/role-has-required-aria-props': 'warn',
-    'jsx-a11y/role-supports-aria-props': 'warn',
-    "react-refresh/only-export-components": "warn",
+    'jsx-a11y/role-supports-aria-props': 'warn'
   },
   settings: {
     react: {
