@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-henrique",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "private": false,
   "author": {
     "name": "Henrique Tavares",
@@ -15,19 +15,19 @@
     "url": "tavareshenrique/eslint-config-henrique"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "6.7.2",
-    "@typescript-eslint/parser": "6.7.2",
-    "eslint": "8.50.0",
-    "eslint-config-prettier": "9.0.0",
+    "@typescript-eslint/eslint-plugin": "6.19.0",
+    "@typescript-eslint/parser": "6.19.0",
+    "eslint": "8.56.0",
+    "eslint-config-prettier": "9.1.0",
     "eslint-config-standard": "17.1.0",
-    "eslint-plugin-import": "2.28.1",
-    "eslint-plugin-jsx-a11y": "6.7.1",
-    "eslint-plugin-n": "16.1.0",
-    "eslint-plugin-prettier": "5.0.0",
+    "eslint-plugin-import": "2.29.1",
+    "eslint-plugin-jsx-a11y": "6.8.0",
+    "eslint-plugin-n": "16.6.2",
+    "eslint-plugin-prettier": "5.1.3",
     "eslint-plugin-promise": "6.1.1",
     "eslint-plugin-react": "7.33.2",
     "eslint-plugin-react-hooks": "4.6.0",
-    "prettier": "3.0.3"
+    "prettier": "3.2.4"
   },
   "peerDependencies": {
     "eslint": "^7.23.0 || ^8.0.0",
